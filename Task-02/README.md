@@ -69,5 +69,5 @@ Prabhav Misal
 Data Science Intern
 
 ##  Connect With Me
-LinkedIn: https://www.linkedin.com/in/prabhavmisal
-GitHub: https://github.com/Prabhav09
+- LinkedIn: https://www.linkedin.com/in/prabhavmisal
+- GitHub: https://github.com/Prabhav09
