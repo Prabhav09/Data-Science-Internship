@@ -99,3 +99,4 @@ Python, Pandas, Matplotlib, Seaborn
 Data Science Intern
 
 GitHub: https://github.com/Prabhav09
+LinkedIn: https://www.linkedin.com/in/prabhavmisal
